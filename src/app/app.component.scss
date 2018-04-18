@@ -69,6 +69,29 @@
   width: 75%;
   margin: auto;
   padding: 4em 1em 2em 1em;
+  margin-top: -20px;
+}
+
+.moto-container {
+  position: relative;
+  width: 75%;
+  text-align: center;
+  margin: auto;
+  margin-top: -250px;
+  img {
+    width: 50%;
+  }
+  .reto {
+    /* position: absolute; */
+    font-size: 2em;
+    text-shadow: 2px 2px 3px black;
+    color: white;
+    position: absolute;
+    /* margin-left: 50%; */
+    top: 80%;
+    width: 100%;
+  }
+
 }
 .logo-battle {
   text-align: center;

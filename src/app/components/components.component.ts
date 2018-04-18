@@ -72,7 +72,149 @@ export class ComponentsComponent implements OnInit, OnDestroy {
             name: 'El complejo Lambda',
             img: 'complejolambda.png',
             link: 'https://twitter.com/complejolambda'
-        }
+        },
+        {
+            name: 'Proyecto Cromatic',
+            img: 'proyecto_cromatic.png',
+            link: 'https://twitter.com/P_Cromatic'
+        },
+        {
+            name: 'Guardado Rápido',
+            img: 'guardadorapido.jpg',
+            link: 'https://twitter.com/GuardadoRapido'
+        },
+        {
+            name: 'Canal GOTY',
+            img: 'canalgoty.jpg',
+            link: 'https://twitter.com/CanalGOTY'
+        },
+        {
+            name: 'Marca Player DX',
+            img: 'marcaplayerdx.jpg',
+            link: 'https://twitter.com/MarcaPlayerDX'
+        },
+        {
+            name: 'Zonared',
+            img: 'zonared.jpg',
+            link: 'https://twitter.com/zonared'
+        },
+        {
+            name: 'La Órbita de Endor',
+            img: 'laorbitadeendor.jpg',
+            link: 'https://twitter.com/laORBITAdeENDOR'
+        },
+        {
+            name: 'Podcast Soulmers',
+            img: 'soulmers.jpg',
+            link: 'https://twitter.com/PodcastSoulmers'
+        },
+        {
+            name: 'Vandal Radio',
+            img: 'vandal.jpg',
+            link: 'https://twitter.com/VandalOnline'
+        },
+        {
+            name: 'EresGamer',
+            img: 'eresgamer.jpg',
+            link: 'https://twitter.com/Eresgamercom'
+        },
+        {
+            name: 'Mision de Audaces',
+            img: 'misionaudaces.jpg',
+            link: 'https://twitter.com/misiondeaudaces'
+        },
+        {
+            name: 'Gamika',
+            img: 'gamika.png',
+            link: 'https://twitter.com/GamikaGames'
+        },
+        {
+            name: 'Antihype',
+            img: 'antihype.png',
+            link: 'https://twitter.com/antihype_ES'
+        },
+        {
+            name: 'Refugio 113',
+            img: 'refugio113.jpg',
+            link: 'https://twitter.com/Refugio_113'
+        },
+        {
+            name: 'Zona Delta TV',
+            img: 'zonadelta.png',
+            link: 'https://twitter.com/ZonaDeltaNews'
+        },
+        {
+            name: 'Zindies',
+            img: 'zindies.jpg',
+            link: 'https://twitter.com/_zindies'
+        },
+        {
+            name: 'Vicioatomico',
+            img: 'vicioatomico.jpg',
+            link: 'https://twitter.com/VICIOATOMICO'
+        },
+        {
+            name: 'Topal Games',
+            img: 'TopalGames.jpg',
+            link: 'https://twitter.com/TopalGames'
+        },
+        {
+            name: 'Vivo entre Muggles',
+            img: 'entremuggles.jpg',
+            link: 'https://twitter.com/entremuggles'
+        },
+        {
+            name: 'El Batallón Pluto',
+            img: 'elbatallonpluto.jpg',
+            link: 'https://twitter.com/elbatallonpluto'
+        },
+        {
+            name: '4Players',
+            img: '4Players.jpg',
+            link: 'https://twitter.com/4Players'
+        },
+        {
+            name: 'Metodologic Podcast',
+            img: 'metodologic.jpg',
+            link: 'https://twitter.com/Metodologic'
+        },
+        {
+            name: 'Radio Rapture',
+            img: 'Radio_Rapture.png',
+            link: 'https://twitter.com/Radio_Rapture'
+        },
+        {
+            name: 'Gamers Ocupados',
+            img: 'gamersocupados.jpg',
+            link: 'https://twitter.com/gamersocupados'
+        },
+        {
+            name: 'MemoryCard',
+            img: 'MemoryCardUCA.jpg',
+            link: 'https://twitter.com/MemoryCardUCA'
+        },
+        {
+            name: 'Monos de Feria',
+            img: 'MonosFFM.jpg',
+            link: 'https://twitter.com/MonosFFM'
+        },
+        {
+            name: 'Porqué Podcast',
+            img: 'PorquePodcast.jpg',
+            link: 'https://twitter.com/PorquePodcast'
+        },
+        {
+            name: 'Porqué Podcast',
+            img: 'PorquePodcast.jpg',
+            link: 'https://twitter.com/PorquePodcast'
+        },
+        {
+            name: 'El chiringuito de los Videojuegos',
+            img: 'ChiringuitoPod.jpg',
+            link: 'https://twitter.com/ChiringuitoPod'
+        },
+
+
 
     ];
     constructor( private renderer : Renderer, config: NgbAccordionConfig) {
