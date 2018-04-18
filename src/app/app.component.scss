@@ -1,0 +1,141 @@
+.header-section {
+  webkit-clip-path: polygon(0 0, 100% 16%, 100% 83%, 0% 100%);
+  -webkit-clip-path: polygon(0 0, 100% 16%, 100% 83%, 0% 100%);
+  clip-path: polygon(0 0, 100% 16%, 100% 83%, 0% 100%);
+  background-color: #766acf;
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  padding: 9em 3em 10em 2em;
+  font-size: 1.5em;
+  font-family: 'BurbankBigCondensed-Black';
+  h2 {
+
+    color: gold;
+  }
+  p {
+    color: white;
+  }
+}
+
+.row-fix {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.text-section {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1em;
+  line-height: 1.75;
+  font-weight: bold;
+}
+
+.section-back-2 {
+  -webkit-clip-path: polygon(0 35%, 100% 0, 100% 100%, 0 93%);
+  clip-path: polygon(0 6%, 100% 0, 100% 100%, 0 93%);
+  background-color: #db8d29;
+  color: black;
+  /* max-width: 51%; */
+  text-align: center;
+  padding: 10em 3em 12em 3em;
+  font-size: 1.5em;
+  h2  {
+    font-family: 'BurbankBigCondensed-Black';
+  }
+  h3 {
+    font-family: 'BurbankBigCondensed-Black';
+    margin-bottom: .2em;
+  }
+  p {
+    font-size: .9em;
+    line-height: 1.75;
+  }
+}
+
+.section-back-3 {
+}
+@media screen and (max-width: 768px) {
+  .img-pj {
+    display: none;
+  }
+}
+.link-to-form {
+  -webkit-clip-path: polygon(14% 14%, 100% 0%, 86% 100%, 0 86%);
+  clip-path: polygon(14% 14%, 100% 0%, 86% 100%, 0 86%);
+  background-color: #B0EFFE;
+  color: #1ac2fe;
+  font-family: 'BurbankBigCondensed-Black';
+  text-align: center;
+  width: 75%;
+  margin: auto;
+  padding: 4em 1em 2em 1em;
+}
+.logo-battle {
+  text-align: center;
+  margin-top: -38vh;
+}
+
+.logo-podcasts {
+  -webkit-clip-path: polygon(0 48%, 4% 19%, 91% 5%, 94% 52%, 33% 52%, 25% 39%, 25% 50%);
+  clip-path: polygon(0 87%, 9% 19%, 91% -12%, 94% 98%, 30% 84%, 25% 65%, 24% 81%);
+  background: #7abcff;
+  background: -webkit-gradient(linear, left top, left bottom, from(#7abcff), color-stop(44%, #60abf8), to(#4096ee));
+  background: linear-gradient(to bottom, #7abcff 0%, #60abf8 44%, #4096ee 100%);
+   background: -moz-linear-gradient(top, #7abcff 0%, #60abf8 44%, #4096ee 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #7abcff 0%,#60abf8 44%,#4096ee 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #7abcff 0%,#60abf8 44%,#4096ee 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7abcff', endColorstr='#4096ee',GradientType=0 ); /* IE6-9 */
+  color: white;
+  margin: auto;
+  padding: 4em 1em 2em 1em;
+  text-align: center;
+  width: 80%;
+  font-family: 'BurbankBigCondensed-Black';
+}
+
+.podcast-container {
+  margin: 1em;
+  text-align: center;
+  padding: 2em 3em 2em 2em;
+  font-family: 'BurbankBigCondensed-Black';
+  font-size: 1.5em;
+  -webkit-clip-path: polygon(3% 3%, 100% 0%, 87% 100%, 0% 100%);
+  clip-path: polygon(3% 3%, 100% 0%, 87% 100%, 0% 100%);
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#e570e7+0,c85ec7+47,a849a3+100;Pink+3D+%233 */
+  background: #e570e7; /* Old browsers */
+  background: -moz-linear-gradient(top, #e570e7 0%, #c85ec7 47%, #a849a3 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #e570e7 0%,#c85ec7 47%,#a849a3 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #e570e7 0%,#c85ec7 47%,#a849a3 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e570e7', endColorstr='#a849a3',GradientType=0 ); /* IE6-9 */
+a {
+  color: white;
+
+  font-size: 1.6em;
+}
+  img {
+    max-width: 240px;
+    width: 100%;
+  }
+  div {
+    margin-bottom: 1em;
+  }
+}
+
+.channels {
+    -webkit-clip-path: polygon(0 100%, 0 0, 21% 0, 34% 11%, 49% 0, 100% 18%, 99% 100%);
+    clip-path: polygon(0 100%, 0 0, 21% 0, 34% 11%, 49% 0, 100% 18%, 100% 100%);
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#fced67+0,f47a00+100 */
+  background: #fced67; /* Old browsers */
+  background: -moz-linear-gradient(top, #fced67 0%, #f47a00 100%); /* FF3.6-15 */
+  background: -webkit-linear-gradient(top, #fced67 0%,#f47a00 100%); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(to bottom, #fced67 0%,#f47a00 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fced67', endColorstr='#f47a00',GradientType=0 ); /* IE6-9 */
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  padding: 5em 2em 2em 2em;
+  h1 {
+
+  font-family: 'BurbankBigCondensed-Black';
+}
+
+}
