@@ -145,8 +145,9 @@ export class ComponentsComponent implements OnInit, OnDestroy {
         },
         {
             name: 'Zindies',
-            img: 'zindies.jpg',
-            link: 'https://twitter.com/_zindies'
+            img: 'Zahira_gamer.jpg',
+            link: 'https://twitter.com/Zahira_gamer'
+            //?? -> https://twitter.com/_zindies'
         },
         {
             name: 'Vicioatomico',
@@ -170,8 +171,8 @@ export class ComponentsComponent implements OnInit, OnDestroy {
         },
         {
             name: '4Players',
-            img: '4Players.jpg',
-            link: 'https://twitter.com/4Players'
+            img: '4players.jpeg',
+            link: 'https://twitter.com/4playersinfo'
         },
         {
             name: 'Metodologic Podcast',
@@ -204,16 +205,16 @@ export class ComponentsComponent implements OnInit, OnDestroy {
             link: 'https://twitter.com/PorquePodcast'
         },
         {
-            name: 'Porqué Podcast',
-            img: 'PorquePodcast.jpg',
-            link: 'https://twitter.com/PorquePodcast'
-        },
-        {
             name: 'El chiringuito de los Videojuegos',
             img: 'ChiringuitoPod.jpg',
             link: 'https://twitter.com/ChiringuitoPod'
         },
-
+        {
+            name: 'Reserva de caca',
+            img: 'reservadecaca.jpg',
+            link: 'https://www.ivoox.com/podcast-reserva-caca_sq_f1306140_1.html'
+        }
+        //podcast reserva de caca???
 
 
     ];
