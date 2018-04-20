@@ -65,9 +65,14 @@
 
             </div>
         </div>
-        <div class="section" id="video">
+        <div class="section" id="video" style="height: 0px">
             <div class="col-md-12">
-                <video width="100%" controls type="video/mp4" src="/assets/video/videoplayback.mp4"></video>
+                <!-- <video width="100%" controls type="video/mp4" src="/assets/video/videoplayback.mp4"></video> -->
+                <div id="listenTrailer">¡ESCUCHA EL TRAILER!</div>
+                <img id="imageTrailer" src="/assets/img/Fortnite_class_characters.png" />
+                <div id="playButton" onclick="document.getElementById('audioTrailer').play()"><img src="/assets/img/play.png" /></div>
+                <audio id="audioTrailer" src="/assets/video/videoplayback.mp3" type="audio/mpeg">
+                </audio>
             </div>
         </div>
         <div class="section" id="info">
