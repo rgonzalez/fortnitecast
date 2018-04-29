@@ -164,28 +164,29 @@ a {
 
 }
 #imageTrailer {
+  width: 100%;
 	position: relative;
   z-index: 1;
-  margin: -23em 0 -18em 0;
 }
 #listenTrailer {
-  font-size: 4em;
-  position: relative;
-  z-index: 3;
+  font-size: 6vw;
+  position: absolute;
+  z-index: 4;
   text-align: center;
   color: gold;
+  width: 100%;
   text-shadow: 1px 1px 8px #585858;
   font-weight: 900;
-  top: -3em;
+  top: 0;
 }
 #playButton {
   cursor: pointer;
-  width: 12em;
+  width: 18vw;
   z-index: 3;
-  position: relative;
-  transform: translate(-50%);
+  position: absolute;
+  transform: translate(-50%,-50%);
   left: 50%;
-  top: -7em;
+  top: 50%;
   max-width: 200px;
   transition: 0.5s;
 }
